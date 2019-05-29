@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <category-def name="uk.org.whitecottage.template.category" label="Template">
+      <description>
+         An empty Eclipse workbench
+      </description>
+   </category-def>
+</site>
